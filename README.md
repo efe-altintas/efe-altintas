@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Altıntaş</h1>
-<h3 align="center">Big Data Analytics student Celal Bayar University. Combining Python, advanced MS Office (Excel & Word) skills, and AI tools for data analysis and reporting.</h3>
+<h3 align="center">Big Data Analytics student Celal Bayar University. Combining Python, advanced MS Office (Excel & Word & Docs) skills, and AI tools for data analysis and reporting.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
